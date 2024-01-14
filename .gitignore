@@ -1,0 +1,13 @@
+*.pt
+*.txt
+*.png
+*.gif
+*.pyc
+/codes/S3Ball/Ball3DImg
+.idea
+*.rar
+slurm_*.out
+slurm_*.err
+*.sbatch
+*.gz
+*.pickle
